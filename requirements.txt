@@ -1,0 +1,11 @@
+llama-index>=0.11
+llama-index-llms-openai>=0.2
+llama-index-embeddings-openai>=0.2
+openai>=1.50
+tiktoken
+transformers>=4.45
+sentencepiece
+accelerate>=0.34
+requests
+python-dotenv
+torch>=2.4
