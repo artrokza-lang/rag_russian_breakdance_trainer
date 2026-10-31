@@ -1,5 +1,11 @@
 # Neuro-trainer for breakdance (RAG)
 
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0.11+-purple.svg)](https://www.llamaindex.ai/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5--turbo-412991.svg)](https://openai.com/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FRED--T5--1.7B-yellow.svg)](https://huggingface.co/ai-forever/FRED-T5-1.7B)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.4+-ee4c2c.svg)](https://pytorch.org/)
+
 Interactive chatbot that answers breakdance questions using
 Retrieval-Augmented Generation (RAG) over a local knowledge base.
 
