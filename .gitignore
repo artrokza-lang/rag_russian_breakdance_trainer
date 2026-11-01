@@ -1,9 +1,8 @@
-# ---- Secrets ----
+# Secrets
 .env
 .env.*
-!.env.example
 
-# ---- Python ----
+# Python
 __pycache__/
 *.py[cod]
 *.egg-info/
@@ -11,16 +10,19 @@ __pycache__/
 .ruff_cache/
 .mypy_cache/
 
-# ---- Virtual env ----
+# Venv
 .venv/
 venv/
 env/
 
-# ---- IDE ----
+# Streamlit
+.streamlit/secrets.toml
+
+# Local cache
+breakdance_knowledge.txt
+
+# IDE / OS
 .idea/
 .vscode/
-*.swp
-
-# ---- OS ----
 .DS_Store
 Thumbs.db
